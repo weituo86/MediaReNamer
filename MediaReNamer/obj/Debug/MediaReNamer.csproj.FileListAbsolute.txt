@@ -1,0 +1,9 @@
+D:\GitHub我的项目\MediaReNamer\MediaReNamer\bin\Debug\MediaReNamer.exe.config
+D:\GitHub我的项目\MediaReNamer\MediaReNamer\bin\Debug\MediaReNamer.exe
+D:\GitHub我的项目\MediaReNamer\MediaReNamer\bin\Debug\MediaReNamer.pdb
+D:\GitHub我的项目\MediaReNamer\MediaReNamer\obj\Debug\MediaReNamer.csprojAssemblyReference.cache
+D:\GitHub我的项目\MediaReNamer\MediaReNamer\obj\Debug\MediaReNamer.MainForm.resources
+D:\GitHub我的项目\MediaReNamer\MediaReNamer\obj\Debug\MediaReNamer.Properties.Resources.resources
+D:\GitHub我的项目\MediaReNamer\MediaReNamer\obj\Debug\MediaReNamer.csproj.GenerateResource.cache
+D:\GitHub我的项目\MediaReNamer\MediaReNamer\obj\Debug\MediaReNamer.exe
+D:\GitHub我的项目\MediaReNamer\MediaReNamer\obj\Debug\MediaReNamer.pdb
